@@ -38,7 +38,6 @@
 
 <script setup lang="ts">
     const router = useRouter()
-    console.log("🚀 ~ router:", router)
     const route = router.currentRoute
 </script>
 
